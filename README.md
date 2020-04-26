@@ -3,5 +3,5 @@
 #<h5> - [X] Condicionais 
 #<h5> - [X] Repetição - While
 #<h5> - [ ] Repetição - do While ao For
-
-  <img src="https://media.giphy.com/media/QLwDxzqefgkUubixUF/giphy.gif"height="150"width="150">
+  
+![](https://media.giphy.com/media/QLwDxzqefgkUubixUF/giphy.gif)
