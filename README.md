@@ -4,4 +4,4 @@
 #<h5> - [X] Repetição - While
 #<h5> - [ ] Repetição - do While ao For
 
-  <img src="https://media.giphy.com/media/QLwDxzqefgkUubixUF/giphy.gif"height="100%"width="100%">
+  <img src="https://media.giphy.com/media/QLwDxzqefgkUubixUF/giphy.gif"height="150"width="150">
